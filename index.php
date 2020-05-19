@@ -95,16 +95,17 @@
                   <li><strong>Enterprise-friendly</strong> - Your system is set-up behind a corporate firewall?<br><i>No problem.</i><br>
                       Proxies with authorization needed to access your services? <br><i>We got it</i>.
                   </li>
+                  <li><strong>Open source and 100% free to use</strong> </li>
                   <li>
                       Minimal system requirements - SuSi will work at pretty much any machine, be it Xeon-Powered server
                       cluster
-                      or Raspberry-Pi
+                      or Raspberry-Pi.
                   </li>
                   <li>SUper SImple - as straightforward as it can possibly be
                       <br>(and we're working to make it even
-                      better)
+                      better).
                   </li>
-                  <li>Notifications - receive system downtime notifications straight to Microsoft Teams</li>
+                  <li>Notifications - receive system downtime notifications straight to Microsoft Teams.</li>
               </ul>
           </div>
           <div class="col-lg-6">
