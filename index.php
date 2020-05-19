@@ -91,7 +91,7 @@
               <h2>SuSi Monitor Features</h2>
               <br>
               <ul>
-                  <li><strong>Enterprise-friendly</strong> - system set-up behind a corporate firewall?<br><i>No problem.</i><br>
+                  <li><strong>Enterprise-friendly</strong> - Your system is set-up behind a corporate firewall?<br><i>No problem.</i><br>
                       Proxies with authorization needed to access your services? <br><i>We got it</i>.
                   </li>
                   <li>
@@ -99,7 +99,8 @@
                       cluster
                       or Raspberry-Pi
                   </li>
-                  <li>SUper SImple - as straightforward as it can possibly be (and we're working to make it even
+                  <li>SUper SImple - as straightforward as it can possibly be
+                      <br>(and we're working to make it even
                       better)
                   </li>
                   <li>Notifications - receive system downtime notifications straight to Microsoft Teams</li>
