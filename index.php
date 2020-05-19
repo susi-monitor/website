@@ -15,6 +15,7 @@
 
   <!-- Custom styles for this template -->
   <link href="css/modern-business.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
 
 
     <!--Favicons-->
@@ -64,11 +65,11 @@
       </ol>
       <div class="carousel-inner" role="listbox">
         <!-- Slide One - Set the background image for this slide in the line below -->
-        <div class="carousel-item active" style="background-image: url('img/big/main_page_response_times_darkened.png')">
-        <!--  <div class="carousel-caption d-none d-md-block">
-            <h3>First Slide</h3>
-            <p>This is a description for the first slide.</p>
-          </div>-->
+        <div class="carousel-item active" style="background-image: url('img/big/main_page_response_times-v.PNG')">
+          <div class="carousel-caption d-none d-md-block">
+            <h3 class="letterOnBanner">Powerful features - minimal overhead</h3>
+            <p class="letterOnBanner">SuSi is a simple interface combined with comprehensive monitoring functionality. </p>
+          </div>
         </div>
       </div>
       <!--<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
