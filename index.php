@@ -64,7 +64,7 @@
       </ol>
       <div class="carousel-inner" role="listbox">
         <!-- Slide One - Set the background image for this slide in the line below -->
-        <div class="carousel-item active" style="background-image: url('http://placehold.it/1900x1080')">
+        <div class="carousel-item active" style="background-image: url('img/big/main_page_response_times_darkened.png')">
         <!--  <div class="carousel-caption d-none d-md-block">
             <h3>First Slide</h3>
             <p>This is a description for the first slide.</p>
@@ -107,7 +107,7 @@
               </ul>
           </div>
           <div class="col-lg-6">
-              <img class="img-fluid rounded" src="http://placehold.it/700x450" alt="">
+              <img class="img-fluid rounded" src="img/big/detail_graph_effects.png" alt="" style="border: solid 1px black;">
           </div>
       </div>
       <!-- /.row -->
